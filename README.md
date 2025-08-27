@@ -29,6 +29,3 @@ La base contiene información de camisetas con atributos como:
 {"temporada":"2025"}
 <img width="1337" height="608" alt="image" src="https://github.com/user-attachments/assets/29450e92-73d7-405f-9d7e-b8dc0ef2dc64" />
 
-
-<img width="1318" height="627" alt="image" src="https://github.com/user-attachments/assets/5d43a054-7845-4a9e-a2f4-5fb1c7c890df" />
-
