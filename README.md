@@ -25,7 +25,7 @@ La base contiene información de camisetas con atributos como:
 ---
 
 ## consulta utilizada
-``json
-{"temporada":"2025"}
+```json
+{"temporada":"2025"}```
 <img width="1337" height="608" alt="image" src="https://github.com/user-attachments/assets/29450e92-73d7-405f-9d7e-b8dc0ef2dc64" />
 
