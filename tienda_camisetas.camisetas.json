@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "68af131f6ff4b3ce9e8f1805"
+  },
+  "equipo": "FC Barcelona",
+  "temporada": "2025",
+  "tipo": "Local",
+  "talle": "M",
+  "precio": 25000,
+  "stock": 15
+},
+{
+  "_id": {
+    "$oid": "68af131f6ff4b3ce9e8f1806"
+  },
+  "equipo": "Real Madrid",
+  "temporada": "2025",
+  "tipo": "Visitante",
+  "talle": "L",
+  "precio": 27000,
+  "stock": 10
+},
+{
+  "_id": {
+    "$oid": "68af131f6ff4b3ce9e8f1807"
+  },
+  "equipo": "Argentina",
+  "temporada": "2024",
+  "tipo": "Edición Especial",
+  "talle": "XL",
+  "precio": 30000,
+  "stock": 5
+},
+{
+  "_id": {
+    "$oid": "68af131f6ff4b3ce9e8f1808"
+  },
+  "equipo": "arsenal",
+  "temporada": "2025",
+  "tipo": "visitante",
+  "talle": "XL",
+  "precio": 30000,
+  "stock": "7"
+}]
