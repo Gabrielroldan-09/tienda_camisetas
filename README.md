@@ -1,7 +1,7 @@
 # 🏟️ Proyecto MongoDB - Tienda de Camisetas de Fútbol
-Alumno:Roldan Gabriel
-Profe:Juan Bonacossa
-UTN-Extension Aulica Famailla
+-**Alumno:Roldan Gabriel**
+-**Profe:Juan Bonacossa**
+-**UTN-Extension Aulica Famailla**
 
 Este proyecto consiste en una **base de datos en MongoDB** para gestionar camisetas de distintos equipos de fútbol.  
 
@@ -34,6 +34,11 @@ La base contiene información de camisetas con atributos como:
   "precio": 25000,
   "stock": 15
 }
-## consulta utilizada:["temporada":"2025"]
+## consulta utilizada
+```json
+{"temporada":"2025"}
+<img width="1337" height="608" alt="image" src="https://github.com/user-attachments/assets/29450e92-73d7-405f-9d7e-b8dc0ef2dc64" />
+
+
 <img width="1318" height="627" alt="image" src="https://github.com/user-attachments/assets/5d43a054-7845-4a9e-a2f4-5fb1c7c890df" />
 
